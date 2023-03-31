@@ -1,6 +1,6 @@
 Name:		texlive-turnstile
 Version:	64967
-Release:	1
+Release:	2
 Summary:	Typeset the (logic) turnstile notation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/turnstile
