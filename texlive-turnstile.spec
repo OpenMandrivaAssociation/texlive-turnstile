@@ -3,7 +3,7 @@ Version:	64967
 Release:	2
 Summary:	Typeset the (logic) turnstile notation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/turnstile
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/turnstile
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/turnstile.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/turnstile.doc.r%{version}.tar.xz
